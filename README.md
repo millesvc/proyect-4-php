@@ -129,7 +129,3 @@ Este proyecto está pensado para mostrarse como una **herramienta interna empres
 - panel principal
 - formulario de creación
 - detalle del producto
-
-## Licencia
-
-Uso educativo y de portafolio.
